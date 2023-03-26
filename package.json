@@ -1,0 +1,16 @@
+{
+  "name": "custom_tableau_extensions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "keywords": [
+    "tableau",
+    "custom",
+    "extensions"
+  ],
+  "author": "akolzinm@inbox.ru",
+  "license": "ISC"
+}
